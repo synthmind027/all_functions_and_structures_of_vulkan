@@ -2,4 +2,4 @@
 
 ### DEPRECATED: Too large
 
-Completed up to chapter 'Devices and Queues'
+Completed up to chapter 'Devices and Queues.'
